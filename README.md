@@ -20,3 +20,13 @@
 
   I created and assessed computing systems that address complex challenges by applying algorithmic thinking and industry-standard computer science principles, while strategically navigating the inherent trade-offs in architectural decisions through meticulous engineering of class hierarchies, method interactions, and proper management of arguments, parameters, and variable scope using JAVA. My refined projects collectively reflect my commitment to embedding security considerations throughout the development lifecycle, proactively identifying potential security threats in system design, eliminating architectural weaknesses, and safeguarding both data integrity and system resources against unauthorized access.
 
+
+SOFTWARE DESIGN AND ENGINEERING
+
+  The final project artifact AppointmentService.java from CS 320: Software Testing, Automation, and Quality Assurance is a good choice to demonstrate software engineering and design proficiency. This artifact is a medical application is designed for gathering contact details, scheduling appointments, and offering a checklist of tasks. The objective of this class was to develop an application that streamlines the information collection process and includes module testing with JUnit tests to ensure the correctness of the entered data and prevent errors.
+
+  
+
+ALGORITHMS AND DATA STRUCTURES
+
+DATABASES
