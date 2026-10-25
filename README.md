@@ -1,4 +1,4 @@
-
+v
 # Nate Frazier's Computer Science Capstone
 
   My journey through Southern New Hampshire University's Computer Science program has been instrumental in defining both my professional aspirations and core values. It has equipped me with the expertise needed to thrive as a Computer Science professional. This ePortfolio showcases my competency in crafting and implementing industry-grade code and software solutions. By completing this Capstone project, I will be highlighting my mastery across three critical domains: Software Design and Engineering, Algorithms and Data Structures, and Databases.
@@ -27,7 +27,7 @@ SOFTWARE DESIGN AND ENGINEERING
   The final project artifact AppointmentService.java from CS 320: Software Testing, Automation, and Quality Assurance is a good choice to demonstrate software engineering and design proficiency. This artifact is a medical application is designed for gathering contact details, scheduling appointments, and offering a checklist of tasks. The objective of this class was to develop an application that streamlines the information collection process and includes module testing with JUnit tests to ensure the correctness of the entered data and prevent errors.
 
   <img width="280" height="280" alt="Screenshot 2026-10-24 185410" src="https://github.com/user-attachments/assets/e25272cc-6c7a-4100-a336-b94a46c20f89" />
-
+![My Image]("https://github.com/user-attachments/assets/e25272cc-6c7a-4100-a336-b94a46c20f89" ){: width="400" }
 <img width="280" height="280" alt="Screenshot 2026-09-06 220131" src="https://github.com/user-attachments/assets/902cc615-a6bf-4487-8f15-03ecc2fb2b57" />
 ALGORITHMS AND DATA STRUCTURES
 
