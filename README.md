@@ -30,7 +30,7 @@ SOFTWARE DESIGN AND ENGINEERING
 
 <img width="976" alt="Screenshot 2026-09-06 220131" src="https://github.com/user-attachments/assets/2ca36207-3a96-4be9-8b22-81b0a5f1a148" />
 
-<img width="900" alt="Screenshot 2026-10-24 185410" src="https://github.com/user-attachments/assets/d3c5c1f4-5592-4646-82d1-56eadc98898a" />
+<img width="1000" alt="Screenshot 2026-10-24 185410" src="https://github.com/user-attachments/assets/d3c5c1f4-5592-4646-82d1-56eadc98898a" />
 
 
 
@@ -40,7 +40,7 @@ ALGORITHMS AND DATA STRUCTURES
 
 <img width="615"  alt="Screenshot 2026-09-06 230858" src="https://github.com/user-attachments/assets/08ba5efc-872f-4a9c-a05c-7e7e52d187bd" />
 
-<img width="800" alt="Screenshot 2026-10-25 004809" src="https://github.com/user-attachments/assets/109a2767-938f-4f22-93c0-86bc70ad2bef" />
+<img width="1000" alt="Screenshot 2026-10-25 004809" src="https://github.com/user-attachments/assets/109a2767-938f-4f22-93c0-86bc70ad2bef" />
 
 DATABASES
 
@@ -51,7 +51,6 @@ Old
 
 
 New
-
 <img width="850" alt="image" src="https://github.com/user-attachments/assets/d0b5ed1f-9f17-4bbc-bd55-f340a5520dec" />
 
 <img width="800"  alt="Screenshot 2026-10-25 032658" src="https://github.com/user-attachments/assets/6df4b064-85da-4c27-9172-c82399b94548" />
