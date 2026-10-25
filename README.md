@@ -25,8 +25,6 @@ CODE REVIEW
 
 
 
-
-
 SOFTWARE DESIGN AND ENGINEERING
 
   The final project artifact AppointmentService.java from CS 320: Software Testing, Automation, and Quality Assurance is a good choice to demonstrate software engineering and design proficiency. This artifact is a medical application is designed for gathering contact details, scheduling appointments, and offering a checklist of tasks. The objective of this class was to develop an application that streamlines the information collection process and includes module testing with JUnit tests to ensure the correctness of the entered data and prevent errors.
@@ -58,4 +56,12 @@ Old
 New
 <img width="850" alt="image" src="https://github.com/user-attachments/assets/d0b5ed1f-9f17-4bbc-bd55-f340a5520dec" />
 <img width="800"  alt="Screenshot 2026-10-25 032658" src="https://github.com/user-attachments/assets/6df4b064-85da-4c27-9172-c82399b94548" />
+
+
+
+
+Collectively, these artifacts showcase my capacity to develop software across various domains and different levels of sophistication. The animal shelter application emphasizes object-oriented design, handling user input, implementing validation, and organizing interconnected data structures. Its reservation and availability capabilities illustrate how thoughtful program logic can address genuine operational requirements. The appointment repository highlights a different but equally important skill set: data persistence through databases, SQL proficiency, prepared statements, connection handling, and converting stored data into usable application objects. The animal shelter dashboard bridges database functionality with an intuitive user experience, enabling people to sort through animal records, examine visual data and geographic information, and access outcome forecasts. Building this feature reinforced lessons about data validation, error management, and iterating when problems surface.
+
+As a collection of work, these initiatives demonstrate my progression from coding application features to creating systems that communicate with external data sources. They also underscore my commitment to writing maintainable code, keeping different components cleanly separated, and ensuring dependable interactions with both users and databases. The examples below offer tangible demonstrations of the technical abilities and analytical methods I outlined in my professional self-assessment.
+
 
