@@ -30,7 +30,7 @@ SOFTWARE DESIGN AND ENGINEERING
 <img width="976" alt="Screenshot 2026-09-06 220131" src="https://github.com/user-attachments/assets/2ca36207-3a96-4be9-8b22-81b0a5f1a148" />
 <img width="917" height="740" alt="Screenshot 2026-10-25 004809" src="https://github.com/user-attachments/assets/33a12357-dc12-4c74-a444-5ef7e826d627" />
 
-https://github.com/natefrazier92/natefrazier92.github.io/blob/main/220131.png
+<img scr="220131.png" alt="Flowchart" style="width: 50%; max-width: 600px;">
 
 ALGORITHMS AND DATA STRUCTURES
 
