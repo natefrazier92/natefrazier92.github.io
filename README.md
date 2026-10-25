@@ -19,6 +19,13 @@
 
   I created and assessed computing systems that address complex challenges by applying algorithmic thinking and industry-standard computer science principles, while strategically navigating the inherent trade-offs in architectural decisions through meticulous engineering of class hierarchies, method interactions, and proper management of arguments, parameters, and variable scope using JAVA. My refined projects collectively reflect my commitment to embedding security considerations throughout the development lifecycle, proactively identifying potential security threats in system design, eliminating architectural weaknesses, and safeguarding both data integrity and system resources against unauthorized access.
 
+CODE REVIEW
+
+
+
+
+
+
 
 SOFTWARE DESIGN AND ENGINEERING
 
