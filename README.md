@@ -1,4 +1,4 @@
-v
+
 # Nate Frazier's Computer Science Capstone
 
   My journey through Southern New Hampshire University's Computer Science program has been instrumental in defining both my professional aspirations and core values. It has equipped me with the expertise needed to thrive as a Computer Science professional. This ePortfolio showcases my competency in crafting and implementing industry-grade code and software solutions. By completing this Capstone project, I will be highlighting my mastery across three critical domains: Software Design and Engineering, Algorithms and Data Structures, and Databases.
@@ -45,6 +45,7 @@ ALGORITHMS AND DATA STRUCTURES
 DATABASES
 
 [Enhancement Document](M5CS499nrf.docx)
+
 Old
 <img width="800"  alt="Screenshot 2026-10-25 032612" src="https://github.com/user-attachments/assets/6ff02ee2-d963-4e7b-9e63-c0ad44ecc42a" />
 
