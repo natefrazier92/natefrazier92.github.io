@@ -39,6 +39,10 @@ SOFTWARE DESIGN AND ENGINEERING
 
 ALGORITHMS AND DATA STRUCTURES
 
+This artifact is originally from almost two years ago for an assignment in my IT145: Foundations in Application Development. It is a Java application that is a command-line-based rescue animal management system. It sets up some sample dogs and monkeys, then gives you a menu to add animals, reserve them, check out your dogs or monkeys, and see which animals are currently working and available for adoption.
+
+When you're adding an animal, the program asks for its info and makes sure there aren't any duplicate names in the system; if you're bringing in a monkey, it also double-checks that the species is on the approved list. Dogs get organized by their service country so it's easier to track down good candidates when someone wants to reserve one. Reservation grabs an eligible animal from the country you're looking for and marks it as taken. The app keeps everything in memory-based lists, so once you close it out, any changes you made disappear.
+
 [Enhancement Document](M4CS499nrf.docx)
 
 <img width="615"  alt="Screenshot 2026-09-06 230858" src="https://github.com/user-attachments/assets/08ba5efc-872f-4a9c-a05c-7e7e52d187bd" />
@@ -46,6 +50,10 @@ ALGORITHMS AND DATA STRUCTURES
 <img width="1000" alt="Screenshot 2026-10-25 004809" src="https://github.com/user-attachments/assets/109a2767-938f-4f22-93c0-86bc70ad2bef" />
 
 DATABASES
+
+This artifact is from a project that I did in CS340: Advanced Programing Concepts about a year ago. The system pulls animal records from a shelter database, runs them through Pydantic validation, and gives users the ability to narrow down their search by rescue profile, breed, and age. On the dashboard side, you'll see your filtered results laid out in a table format, along with charts that track outcome patterns and date trends. Plus, if location data is available, animals get plotted on a map.
+
+On top of that, there's a demo logistic-regression model that learns from existing shelter records to make educated guesses about whether an animal will get adopted or end up back at the shelter—taking into account factors like age, breed, and sex. 
 
 [Enhancement Document](M5CS499nrf.docx)
 
