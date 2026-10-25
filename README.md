@@ -30,9 +30,7 @@ SOFTWARE DESIGN AND ENGINEERING
   
 <img width="280" height="280" alt="Screenshot 2026-09-06 220131" src="https://github.com/user-attachments/assets/902cc615-a6bf-4487-8f15-03ecc2fb2b57" />
 ALGORITHMS AND DATA STRUCTURES
-<a href="https://github.com/user-attachments/assets/902cc615-a6bf-4487-8f15-03ecc2fb2b57" target="_blank">
-  <img src="https://github.com/user-attachments/assets/902cc615-a6bf-4487-8f15-03ecc2fb2b57" alt="Click to view full image" width="200" />
-</a>
+https://<natefrazier92>.github.io/<main>/Screenshot 2026-09-06 220131.png
 
 <img width="615" height="899" alt="Screenshot 2026-09-06 230858" src="https://github.com/user-attachments/assets/08ba5efc-872f-4a9c-a05c-7e7e52d187bd" />
 
