@@ -25,13 +25,13 @@ v
 SOFTWARE DESIGN AND ENGINEERING
 
   The final project artifact AppointmentService.java from CS 320: Software Testing, Automation, and Quality Assurance is a good choice to demonstrate software engineering and design proficiency. This artifact is a medical application is designed for gathering contact details, scheduling appointments, and offering a checklist of tasks. The objective of this class was to develop an application that streamlines the information collection process and includes module testing with JUnit tests to ensure the correctness of the entered data and prevent errors.
-https://github.com/natefrazier92/natefrazier92.github.io/blob/4383e0fd45f87d558061e7e1069d79b763c20437/233909.png
+<img width="400" src="https://github.com/natefrazier92/natefrazier92.github.io/blob/4383e0fd45f87d558061e7e1069d79b763c20437/233909.png" />
 
-https://github.com/natefrazier92/natefrazier92.github.io/blob/70ec46caad4a14165f1b6b03569d84a157afafea/185410.png
+<img width="400" src="https://github.com/natefrazier92/natefrazier92.github.io/blob/70ec46caad4a14165f1b6b03569d84a157afafea/185410.png" />
 
 ALGORITHMS AND DATA STRUCTURES
 
-<img width="615" height="899" alt="Screenshot 2026-09-06 230858" src="https://github.com/user-attachments/assets/08ba5efc-872f-4a9c-a05c-7e7e52d187bd" />
+<img width="615"  alt="Screenshot 2026-09-06 230858" src="https://github.com/user-attachments/assets/08ba5efc-872f-4a9c-a05c-7e7e52d187bd" />
 
 <img width="900" height="740" alt="Screenshot 2026-10-25 004809" src="https://github.com/user-attachments/assets/109a2767-938f-4f22-93c0-86bc70ad2bef" />
 
