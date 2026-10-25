@@ -26,7 +26,7 @@ SOFTWARE DESIGN AND ENGINEERING
 
   The final project artifact AppointmentService.java from CS 320: Software Testing, Automation, and Quality Assurance is a good choice to demonstrate software engineering and design proficiency. This artifact is a medical application is designed for gathering contact details, scheduling appointments, and offering a checklist of tasks. The objective of this class was to develop an application that streamlines the information collection process and includes module testing with JUnit tests to ensure the correctness of the entered data and prevent errors.
 
-  <img width="1914" height="815" alt="Screenshot 2026-10-24 185410" src="https://github.com/user-attachments/assets/e25272cc-6c7a-4100-a336-b94a46c20f89" />
+  <img width="900" height="815" alt="Screenshot 2026-10-24 185410" src="https://github.com/user-attachments/assets/e25272cc-6c7a-4100-a336-b94a46c20f89" />
 
 <img width="976" height="689" alt="Screenshot 2026-09-06 220131" src="https://github.com/user-attachments/assets/902cc615-a6bf-4487-8f15-03ecc2fb2b57" />
 ALGORITHMS AND DATA STRUCTURES
@@ -34,13 +34,15 @@ ALGORITHMS AND DATA STRUCTURES
 
 <img width="615" height="899" alt="Screenshot 2026-09-06 230858" src="https://github.com/user-attachments/assets/08ba5efc-872f-4a9c-a05c-7e7e52d187bd" />
 
-<img width="1917" height="740" alt="Screenshot 2026-10-25 004809" src="https://github.com/user-attachments/assets/109a2767-938f-4f22-93c0-86bc70ad2bef" />
+<img width="900" height="740" alt="Screenshot 2026-10-25 004809" src="https://github.com/user-attachments/assets/109a2767-938f-4f22-93c0-86bc70ad2bef" />
 
 DATABASES
-<img width="1919" height="944" alt="Screenshot 2026-10-25 032658" src="https://github.com/user-attachments/assets/6df4b064-85da-4c27-9172-c82399b94548" />
+<img width="900" height="1024" alt="Screenshot 2026-10-25 032612" src="https://github.com/user-attachments/assets/6ff02ee2-d963-4e7b-9e63-c0ad44ecc42a" />
 
 
-<img width="1919" height="856" alt="Screenshot 2026-10-25 032641" src="https://github.com/user-attachments/assets/3c8c7e53-daaa-4330-9dc1-f003ff0fd446" />
 
-<img width="1919" height="1024" alt="Screenshot 2026-10-25 032612" src="https://github.com/user-attachments/assets/6ff02ee2-d963-4e7b-9e63-c0ad44ecc42a" />
+<img width="900" height="856" alt="Screenshot 2026-10-25 032641" src="https://github.com/user-attachments/assets/3c8c7e53-daaa-4330-9dc1-f003ff0fd446" />
+
+<i
+<img width="900" height="944" alt="Screenshot 2026-10-25 032658" src="https://github.com/user-attachments/assets/6df4b064-85da-4c27-9172-c82399b94548" />
 
