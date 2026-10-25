@@ -28,7 +28,8 @@ SOFTWARE DESIGN AND ENGINEERING
 
 
 <img width="976" alt="Screenshot 2026-09-06 220131" src="https://github.com/user-attachments/assets/2ca36207-3a96-4be9-8b22-81b0a5f1a148" />
-<img width="977" alt="Screenshot 2026-10-25 004809" src="https://github.com/user-attachments/assets/33a12357-dc12-4c74-a444-5ef7e826d627" />
+
+<img width="900" alt="Screenshot 2026-10-24 185410" src="https://github.com/user-attachments/assets/d3c5c1f4-5592-4646-82d1-56eadc98898a" />
 
 
 
