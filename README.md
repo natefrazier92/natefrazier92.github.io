@@ -63,7 +63,7 @@ Old
 
 New
 <img width="850" alt="image" src="https://github.com/user-attachments/assets/d0b5ed1f-9f17-4bbc-bd55-f340a5520dec" />
-<img width="800"  alt="Screenshot 2026-10-25 032658" src="https://github.com/user-attachments/assets/6df4b064-85da-4c27-9172-c82399b94548" />
+
 <img width="809"  alt="Screenshot 2026-10-25 212343" src="https://github.com/user-attachments/assets/e715f45d-bb30-4d8b-9df1-2a840ba31c1c" />
 
 
