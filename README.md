@@ -21,6 +21,8 @@
 
 CODE REVIEW
 
+Code reviews serve an important role in software development by boosting code quality and dependability. When a team member takes a look at your changes, they might spot issues you overlooked. Beyond catching mistakes, reviews help keep code readable and maintainable by promoting solid design patterns, uniform formatting, and thorough testing practices. They're also great for spreading knowledge across the team and having conversations about technical choices, so everyone gets more familiar with how the whole system works. That said, code reviews aren't meant to replace proper testing, and they really shine when feedback comes quickly, gets straight to the point, and stays constructive.
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vEuThaGKQtM?si=NWxuVeD6kQZy4uxd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
@@ -47,7 +49,7 @@ When you're adding an animal, the program asks for its info and makes sure there
 
 <img width="615"  alt="Screenshot 2026-09-06 230858" src="https://github.com/user-attachments/assets/08ba5efc-872f-4a9c-a05c-7e7e52d187bd" />
 
-<img width="900" height="425" alt="Screenshot 2026-10-25 004809" src="https://github.com/user-attachments/assets/109a2767-938f-4f22-93c0-86bc70ad2bef" />
+<img width="900" alt="Screenshot 2026-10-25 004809" src="https://github.com/user-attachments/assets/109a2767-938f-4f22-93c0-86bc70ad2bef" />
 
 DATABASES
 
